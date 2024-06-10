@@ -1,0 +1,72 @@
+Airbus A220
+Airbus A320
+Airbus A330
+Airbus A330neo
+Airbus A350 XWB
+Antonov An-148/An-158
+Boeing 737
+Boeing 767
+Boeing 777
+Boeing 787 Dreamliner
+Comac ARJ21 Xiangfeng
+Comac C919
+Embraer E-Jet family
+Embraer E-Jet E2 family
+Ilyushin Il-96
+Sukhoi Superjet SSJ100
+Tupolev Tu-204/Tu-214
+Comac C929
+Comac C939
+Irkut MC-21
+Airbus A300
+Airbus A310
+Airbus A318
+Airbus A340
+Airbus A380
+Boeing 717
+Boeing 727
+Boeing 747
+Boeing 757
+Bombardier CRJ100/200/440
+Bombardier CRJ700/705/900/1000
+British Aerospace 146/Avro RJ
+Douglas DC-8
+Embraer ERJ family
+Fairchild Dornier 328JET
+Fokker 100
+Fokker 70
+Ilyushin Il-62
+McDonnell Douglas DC-9
+McDonnell Douglas DC-9 Super 80/MD-80
+McDonnell Douglas DC-10/MD-10
+McDonnell Douglas MD-11
+Tupolev Tu-134
+Tupolev Tu-154
+Yakovlev Yak-40
+Yakovlev Yak-42
+McDonnell Douglas MD-90
+Fokker F28 Fellowship
+VFW-Fokker 614
+Vickers VC10
+Tupolev Tu-334
+Tupolev Tu-104
+Tupolev Tu-110
+Tupolev Tu-124
+Tupolev Tu-144
+Shanghai Y-10
+Sud Aviation SE-210 Caravelle
+Lockheed L-1011 TriStar
+Ilyushin Il-86
+Hawker Siddeley HS121 Trident
+Convair 880
+Convair 990 Coronado
+Dassault Mercure 100
+de Havilland DH 106 Comet
+Boeing 720
+Avro Canada C102 Jetliner
+Baade 152
+BAC One-Eleven
+Rombac 1-11
+Boeing 707
+Aérospatiale-BAC Concorde
+Mitsubishi SpaceJet

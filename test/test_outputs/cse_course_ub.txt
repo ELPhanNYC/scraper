@@ -1,0 +1,78 @@
+CSE 101LLB - Computers: A General Introduction
+CSE 101LLB - Computers: A General Introduction
+CSE 101LLB - Computers: A General Introduction
+CSE 101LLB - Computers: A General Introduction
+CSE 111LLB - Introduction to Quantitative Analysis and Reasoning with Computing
+CSE 113LR - Introduction to Computer Programming I
+CSE 115LLR - Introduction to Computer Science I
+CSE 116LLB - Introduction to Computer Science II
+CSE 191LR - Introduction to Discrete Structures
+CSE 199SR - UB Seminar
+CSE 220LLB - Systems Programming
+CSE 234LEC - Intro to Blockchain
+CSE 241LLB - Digital Systems
+CSE 250LR - Data Structures
+CSE 302LR - Intro to Experiential Learning/Research
+CSE 303LEC - Intermediate Experiential Learning/Research
+CSE 305LR - Introduction to Programming Languages
+CSE 306LLB - Software Quality in Practice
+CSE 312LR - Introduction to Web Applications
+CSE 321LR - Real -Time and Embedded Operating Systems
+CSE 331LR - Algorithms and Complexity
+CSE 341LR - Computer Organization
+CSE 365LR - Introduction to Computer Security
+CSE 368LR - Introduction to Artificial Intelligence
+CSE 370LR - Applied Human Computer Interaction and Interface Design
+CSE 379LLB - Introduction to Microprocessors
+CSE 396LR - Introduction to the Theory of Computation
+CSE 402LEC - Experiential Learning/Research Capstone
+CSE 404LR - Software Project Management
+CSE 408LEC - Programming with Python
+CSE 409LEC - Advanced Blockchain Concepts
+CSE 410LEC - Special Topics
+CSE 411LEC - Introduction to Computer Systems Administration
+CSE 421LEC - Introduction to Operating Systems
+CSE 426LEC - Blockchain Application Development
+CSE 427LEC - Systems Security
+CSE 428LEC - Introduction to Digital Image Processing
+CSE 429LEC - Algorithms for Modern Computing Systems
+CSE 430LEC - Topics in Theoretical Computer Science
+CSE 431LEC - Algorithms Analysis and Design
+CSE 432LEC - Randomized Algorithms Analysis and Design
+CSE 435LEC - Information Retrieval
+CSE 439LEC - Quantum Computation through Linear Algebra
+CSE 440LEC - Machine Learning and Society for Majors
+CSE 441LEC - Machine Learning and Society for Non-Majors
+CSE 442LR - Software Engineering
+CSE 443LR - Compilers
+CSE 445LEC - Coding Theory
+CSE 446LEC - Reinforcement Learning
+CSE 449LEC - Software Verification
+CSE 450LEC - Hardware/Software Integrated Systems Design I
+CSE 453LEC - Hardware/Software Integrated Systems Design 2
+CSE 454LEC - Applied Computational Intelligence
+CSE 455LEC - Introduction to Pattern Recognition
+CSE 460LEC - Data Models and Query Languages
+CSE 462LEC - Database Systems
+CSE 463LEC - Knowledge Representation
+CSE 467LEC - Computational Linguistics
+CSE 468LEC - Robotics Algorithms
+CSE 469LEC - Introduction to Data Mining
+CSE 470LEC - Introduction to Parallel and Distributed Processing
+CSE 473LEC - Introduction to Computer Vision and Image Processing
+CSE 474LEC - Introduction to Machine Learning
+CSE 477LEC - Processing of Strings and Sequences
+CSE 478LEC - Computational Investment: Part I
+CSE 486LEC - Distributed Systems
+CSE 487LEC - Data Intensive Computing
+CSE 489LEC - Modern Networking Concepts
+CSE 490LEC - Computer Architecture
+CSE 491LEC - Introduction to the Theory of Computation
+CSE 492TUT - Undergraduate Peer Mentoring
+CSE 493LLB - Introduction to VLSI Electronics
+CSE 494SEM - Senior Capstone/Seminar
+CSE 495TUT - Supervised Teaching
+CSE 496TUT - Internship/Practicum
+CSE 497TUT - Departmental Honors Thesis or Project
+CSE 498TUT - Undergraduate Research and Creative Activity
+CSE 499TUT - Independent Study
